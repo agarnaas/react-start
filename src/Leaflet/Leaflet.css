@@ -1,0 +1,13 @@
+.leaflet-maps {
+    margin-bottom: 50px;
+}
+
+.map {
+    min-height: 500px;
+    width: 600px;
+    margin: 30px auto ;
+}
+
+.leaflet-control-layers-base {
+    text-align: left;
+}

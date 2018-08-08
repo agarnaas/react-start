@@ -22,3 +22,8 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.Map-container {
+  display: block;
+  min-height: 300px;
+}
